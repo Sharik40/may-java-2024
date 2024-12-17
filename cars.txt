@@ -1,0 +1,15 @@
+Toyota, 150, John, 35, 10, 20000, 2020
+Honda, 140, Alice, 28, 5, 18000, 2019
+BMW, 250, Mike, 40, 15, 50000, 2022
+Mercedes, 300, Sarah, 30, 8, 55000, 2021
+Ford, 180, Tom, 45, 20, 22000, 2018
+Chevrolet, 160, Emma, 32, 1, 21000, 2019
+Nissan, 170, Chris, 29, 6, 19000, 2020
+Kia, 130, Laura, 27, 4, 15000, 2017
+Hyundai, 140, David, 33, 9, 17000, 2018
+Audi, 310, Sophia, 36, 11, 60000, 2023
+Mazda, 155, Jake, 31, 8, 19500, 2019
+Subaru, 198, Anna, 25, 3, 24000, 2021
+Volkswagen, 200, Paul, 38, 12, 26000, 2020
+Porsche, 400, Daniel, 45, 2, 90000, 2022
+Tesla, 350, Olivia, 29, 5, 75000, 2023
